@@ -7,6 +7,8 @@ export MenuItem from './MenuItem.react';
 export Token from './Token.react';
 export Typeahead from './Typeahead.react';
 
+export Highlighter from './Highlighter.react'
+
 // HOCs
 export asyncContainer from './containers/asyncContainer';
 export menuItemContainer from './containers/menuItemContainer';
